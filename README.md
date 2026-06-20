@@ -3,8 +3,8 @@
 Fixes the Steam Workshop mod **STS2RobotSkinMod** (item `3747601919`) for **Slay the Spire 2**,
 which crashes on load and breaks the Defect in combat.
 
-[![Download the installer](https://img.shields.io/badge/Download-Installer%20(.exe)-2ea44f?style=for-the-badge&logo=windows)](https://github.com/rAlGRAd/-STS2RobotSkinMod_FIX/releases/latest/download/STS2RobotSkinMod-fix-Installer.exe)
-[![Download the .zip](https://img.shields.io/badge/Download-.zip-555555?style=for-the-badge)](https://github.com/rAlGRAd/-STS2RobotSkinMod_FIX/releases/latest/download/STS2RobotSkinMod-fix.zip)
+[![Download the installer](https://img.shields.io/badge/Download-Installer%20(.exe)-2ea44f?style=for-the-badge&logo=windows)](https://github.com/rAlGRAd/STS2RobotSkinMod_FIX/releases/latest/download/STS2RobotSkinMod-fix-Installer.exe)
+[![Download the .zip](https://img.shields.io/badge/Download-.zip-555555?style=for-the-badge)](https://github.com/rAlGRAd/STS2RobotSkinMod_FIX/releases/latest/download/STS2RobotSkinMod-fix.zip)
 
 > **Quick install:** download the installer above → fully close Slay the Spire 2 → run it.
 > It's unsigned, so SmartScreen will warn — click **More info → Run anyway**.
